@@ -1,3 +1,3 @@
-3. CMS dashboard "Accepted risk dekho"
-4. secpod
-5. Breach : 
+Numbers = list(range(3,31,3))
+print("Here we go table of 2 : " )
+print(Numbers)
